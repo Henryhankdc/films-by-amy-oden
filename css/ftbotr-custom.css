@@ -1,0 +1,102 @@
+/* MODIFICATIONS TO BOOTSTRAP THEME FOR FTBOTR */
+body {
+	background-color: #666666;
+}
+
+.hp-title {
+	font-family: 'Raleway', sans-serif;
+	text-transform: uppercase;
+	-moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* Social Media Icons Redo */
+.social-icons-new {
+
+}
+.social-icons-new-wrapper {
+	/* border:2px solid white;
+	padding: 15px 0;
+    width: 30%; */
+}
+
+.social-icon-item {
+	-moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+	font-size: 30px;
+	color: white;
+	padding: 0 15px;
+	transition: all .3s ease-in-out;
+}
+
+.social-icon-item:hover {
+	color:white;
+	background-color:RGBA(255, 255,255, 0.3);
+	border-radius: 25%;
+	/* transform: scale(1.5); */
+}
+
+
+.portfolio-items .portfolio-overlay {
+	background: no-repeat scroll center 42%/auto 20% #FFFFFF;
+}
+
+.portfolio-items li {
+	text-align: center;
+}
+
+.portfolio-items .portfolio-overlay p {
+	padding: 20px 40px 20px 20px;
+	font-size: 16px;
+	line-height: 18px;
+
+}
+
+.portfolio-items .portfolio-overlay h3 {
+	font-size: 24px;
+    line-height: 22px;
+    margin-bottom: 0;
+    padding-top: 10px;
+    text-align: center;
+}
+
+#page-writing .span4 {
+	margin-top:15px;
+	
+}
+
+.span4.mpt {
+	background-color: #fff;
+	/* min-height: 0px; */
+}
+
+
+.mpt-digital {
+	min-height: 300px;
+	/* height: 240px;
+	max-height: 300px; */
+}
+
+.last-row {
+	padding-bottom: 40px;
+}
+
+.about-bio {
+	font-weight: 700;
+	margin-bottom: 25px;
+	padding: 10px 5px;
+	text-align: center;
+	-moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+.bio-title {
+	color: white;
+	text-align: center;
+	-moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+.bg-content {
+	background-color: RGBA(0, 0,0, 0.5);
+}

@@ -1,0 +1,41 @@
+
+
+header {
+    background-color: #000000;
+    color: #FFFFFF;
+    margin: 0;
+    padding: 8px;
+}
+
+.no-top-margin {
+	margin-top: 0px
+}
+
+.no-right-margin {
+	margin-right: 0px
+}
+
+.no-bottom-margin {
+	margin-bottom: 0px
+}
+
+.no-left-margin {
+	margin-left: 0px
+}
+
+.background-black {
+	background-color: #000000;
+}
+
+.social-media a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.films {
+	padding:30px;
+}
+
+.page-header h3 {
+	color: #999999;
+}
